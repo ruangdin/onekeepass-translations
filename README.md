@@ -3,7 +3,7 @@ Translations of texts used in all platforms
 
 ## How to add a new language translations
 
-All translated texts are kept in json files. For an example **es.json** file has all spanish translations of all the texts used in the application
+All translated texts are kept in json files. For example, **es.json** file has all spanish translations of the texts used in the application
 
 To add a new language
 
