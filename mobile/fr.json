@@ -60,7 +60,7 @@
         "tags": "Étiquettes",
         "theme": "Thème",
         "title": "Titre",
-        "transformRounds": "Transformer les arrondissements"
+        "transformRounds": "Tours de transformation"
     },
     "entryTypeTitles": {
         "bankAccount": "Compte bancaire",
